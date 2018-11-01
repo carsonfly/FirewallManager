@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/carson/firewall/controller/IPClassController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/js/FireWallManager/IPClassManagePanel.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/js/FireWallManager/IPManagePanel.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/js/FireWallManager/Login.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/js/FireWallManager/PortManagePanel.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/js/FireWallManager/StrategyManagePanel.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/js/FireWallManager/UserManagePanel.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/js/TaskManager/DateTime.js" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/js/TaskManager/DateTimeField.js" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/js/TaskManager/TaskManagePanel.js" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/js/TaskManager/TaskViewPanel.js" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/js/TaskManager/UserManagePanel.js" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/static/js/TaskManager/login.js" charset="UTF-16" />
+  </component>
+</project>
